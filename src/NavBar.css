@@ -1,0 +1,17 @@
+.NavBar {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+}
+
+.NavBar-link {
+  text-decoration: none;
+  font-weight: 800;
+  color: black;
+  margin-left: 20px;
+}
+
+.NavBar-link:hover {
+  color: lightblue;
+  transition: 0.1s color;
+}
